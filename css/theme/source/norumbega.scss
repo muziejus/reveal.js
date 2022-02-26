@@ -1,0 +1,111 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is darkblue.
+ *
+ * This theme is Copyright (C) 2012 Owen Versteeg, https://github.com/StereotypicalApps. It is MIT licensed.
+ * reveal.js is Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ */
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+// Include theme-specific fonts
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond");
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: "EB Garamond", sans-serif;
+$mainColor: #093552;
+$headingFont: "Didot", Impact, sans-serif;
+$headingColor: #41516c;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #efefef;
+// $backgroundColor: #d2d2c0;
+$linkColor: #555555;
+$linkColorHover: lighten($linkColor, 20%);
+$selectionBackgroundColor: rgba(0, 0, 0, 0.99);
+
+// Change text colors against dark slide backgrounds
+@include dark-bg-text-color(#fff);
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+body {
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga", "dlig", "hlig";
+}
+
+main {
+  height: 1080px;
+  width: 1920px;
+  border: 2px solid;
+  border-color: #cc0000;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.reveal.mainNorumbega {
+  filter: drop-shadow(0 25px 25px rgb(0 0 0 / 0.15));
+  height: 1080px;
+  width: 1280px;
+}
+.reveal.sidebarNorumbega {
+  background-color: #d2d2c0;
+  width: 640px;
+}
+
+.reveal.sidebarNorumbega p {
+  text-align: left;
+}
+
+.reveal img {
+  margin: 0;
+  padding: 15px;
+  border: 4px solid #555555;
+  filter: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03))
+    drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
+}
+
+.sidebar {
+  height: 1080px;
+  width: 640px;
+  display: flex;
+  flex-direction: column;
+  background-color: #d2d2c0;
+}
+
+.sidebar footer {
+  padding: 20px;
+}
+
+.sidebar footer .screen {
+  background-color: #093552;
+  width: 600px;
+  height: 338px;
+}
+
+.sidebar footer h3 {
+  text-align: right;
+  font-size: 3rem;
+  font-family: "Didot", Impact, sans-serif;
+  color: #093552;
+}
+
+.sidebar header {
+  padding: 20px;
+}
+
+.sidebar header img {
+  width: 100%;
+  height: auto;
+}
+
+.reveal blockquote {
+  text-align: left;
+  box-shadow: none;
+  border-left: 4px solid #555555;
+  padding-left: 2rem;
+}

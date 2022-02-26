@@ -1,4 +1,4 @@
-<h1 class="r-fit-text">“If Englande Crie oute, this Norumbega Offreth the Remedie”</h1>
+# “If Englande Crie oute, this Norumbega Offreth the Remedie”<!-- .element: class="r-fit-text" -->
 
 ## American Imaginaries after Cartography
 
@@ -71,6 +71,93 @@ He refers to a place called "El Refugio," understood to be contemp
 
 1584 Plantings... comprehensive statement of English colonization. 
 
+---
+
+## Latour and “Paper-work” <!-- .element: class="r-fit-text" -->
+
+* Mobile yet Immutable
+* Flat
+* Modifiable Scale
+* Free to Reproduce
+* Recombinable / Superimposable / Annotatable
+* Geometric
+
+<span class="credit">Latour, <a href="http://www.bruno-latour.fr/node/293.html">“Visualisation and Cognition: Drawing Things Together”</a></span>
+
+Note: Latour tells the story of La Pérouse, sent from Versailles to determine
+whether Sakhalin is an island.
+
+---
+
+<img alt="Massey pages 2 and 3" class="r-stretch" src="https://i.imgur.com/CWRhcHJ.png">
+
+<span class="credit">[_Codex Mendoza_](https://codicemendoza.inah.gob.mx/inicio.php) (c.1541) and Cortés, [_Mexico City_](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0) (1524), in [Massey, _For Space_](https://uk.sagepub.com/en-gb/eur/for-space/book227109), 2–3.</span>
+
+Note: Doreen Massey begins _For Space_ with a set of ruminations, of failures
+of spatial imagination. "Failure in the sense of being inadequate to face up
+to the challenges of space; a failure to take on board its coeval
+multiplicities, to accept its radical contemporaneity, to deal with its
+constitutive complexity. I like the juxtaposition Massey provides here,
+between one “map” that tells a story embedded in time, and the other map that
+serves only to inform and control.
+
+---
+
+## The Cartography Ideal <!-- .element: class="r-fit-text" -->
+
+* Efficacy: Maps are there to be used, especially for navigation
+* Discipline: Maps can be incorrect and later corrected
+* Publicity: Maps are for wide use
+* Morality: Mappers are morally obligated to make the best maps
+* Singularity/Universality: there is one map.
+
+---
+
+## The Cartography Ideal <!-- .element: class="r-fit-text" -->
+
+> The normative map must be eliminated, likewise the conviction that it is
+meaningful to talk about “maps” or “the map” as a generic category of
+phenomena.
+
+<span class="credit">Edney, <a
+href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo34094164.html"><i>Cartography</i></a>,
+233.</span>
+
+---
+
+## The Cartography Ideal <!-- .element: class="r-fit-text" -->
+
+> Map scholars need to study the processes of mapping… Mapping processes are
+fluid, the maps they generate are mutable and volatile. Nothing about mapping
+is fixed and stable… Map scholars must stop saying “maps are” and instead say
+“X mapping is.”
+
+<span class="credit">Edney, <a
+href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo34094164.html"><i>Cartography</i></a>, 234, 236.</span>
+
+---
+
+## The Cartography Ideal <!-- .element: class="r-fit-text" -->
+
+In the _West_:
+
+* ? – ~1800: Maps, charts, etc., are all different
+* ~1800 – ~1900: All mapping should be “cartography,” unified by projective
+  geometry and scale
+* ~1900 – ~1970: All mapping *is* “cartography,” even property mapping. “Why
+  maps?” is irrelevant.
+* ~1970 – present: The ideal is critiqued, yet now more reproduced than ever,
+  online.
+
+---
+
+## The Cartography Ideal <!-- .element: class="r-fit-text" -->
+
+* Ontology: The map is a reduction of the world/archive.
+* Pictorialness: The map is an unmediated/mimetic presentation of the world
+* Individuality: Making/using maps are acts of individual cognition
+* Materiality: Maps are things in specific moments
+* Observation: Maps are grounded in observation and measurement
 
 ---
 

@@ -1,4 +1,3 @@
-<sup>1</sup> Richard Hakluyt, _A Particuler Discourse Concerninge the Greate Necessitie and Manifolde Commodyties That Are Like to Growe to This Realme of Englande by the Westerne Discoueries Lately Attempted, Written in the Yere 1584_ [1584], in Charles Deane, ed., _A Discourse Concerning Western Planting Written in the Year 1584_ (Cambridge, MA: Maine Historical Society, 1877), 161.
 
 ---
 
@@ -6,7 +5,7 @@
 
 ---
 
-<sup>1</sup> Hakluyt, _Discourse_, 161.
+<sup>1</sup> Richard Hakluyt, _A Particuler Discourse Concerninge the Greate Necessitie and Manifolde Commodyties That Are Like to Growe to This Realme of Englande by the Westerne Discoueries Lately Attempted, Written in the Yere 1584_ [1584], in Charles Deane, ed., _A Discourse Concerning Western Planting Written in the Year 1584_ (Cambridge, MA: Maine Historical Society, 1877), 161.
 
 ---
 

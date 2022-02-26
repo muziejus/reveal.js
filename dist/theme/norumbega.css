@@ -20,7 +20,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-main-color: #093552;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: Didot, Impact, sans-serif;
+  --r-heading-font: linotype-didot, serif;
   --r-heading-color: #41516c;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;

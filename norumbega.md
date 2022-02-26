@@ -1,4 +1,4 @@
-<h1 class="r-fit-text">“If Englande Crie oute, this Norumbega Offreth the Remedie”<sup>1</sup></h1>
+<h1 class="r-fit-text">“If Englande Crie oute, this Norumbega Offreth the Remedie”</h1>
 
 ## American Imaginaries after Cartography
 

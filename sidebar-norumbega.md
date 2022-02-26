@@ -10,7 +10,7 @@
 
 ---
 
-<sup>1</sup> Jean Dytar, _Florida_ (Paris: Delcourt, 2018), 69.
+<sup>1</sup> Jean Dytar, _Florida_ (Paris: Delcourt, 2018).
 
 ---
 

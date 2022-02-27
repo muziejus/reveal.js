@@ -13,4 +13,20 @@
 
 ---
 
+<sup>1</sup> Richard Hakluyt, _The Principal Navigations, Voyages, Traffiques, and Discoveries of the English Nation_ vol. 1 [1599], (Edinburgh: E. & G. Goldsmid, 1885), 5–6.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 25–26.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 27.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 28–29.
+
+---
+
 <sup>1</sup> Cornille Wytfliet et al., “[Norumbega et Virginia](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296158~90067645:Norumbega-et-Virginia),” in _Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611_, David Rumsey Map Collection (Douay: Chez Francois Fabri, 1611).

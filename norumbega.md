@@ -24,7 +24,7 @@ to their shores, including, among others, the Lenape.
 
 ---
 
-<img src="img/norumbega-smaller.jpeg" alt="Norumbega" class="r-stretch">
+<img src="https://i.imgur.com/H0EyTr0.jpg" alt="Norumbega" class="r-stretch">
 
 “Tierra Nueva”<sup>1</sup>
 
@@ -55,14 +55,80 @@ Note: The title of this talk closes a text printed in 1584, seemingly with an au
 
 ---
 
-<img src="img/thevet-hakluyt.png" alt="Thevet and Hakluyt" class="r-stretch">
+<img src="https://i.imgur.com/k0iLsKG.jpg" alt="Thevet and Hakluyt" class="r-stretch">
 
 André Thevet and Richard Hakluyt.<sup>1</sup>
 
-Note: The author of the 1584 text, _A Discourse Concerning Western Planting_, is on the right side of this picture, reading a book. That's Richard Hakluyt, a star of tonight's talk. He's in Paris here, around the same time that he is writing the Discourse, in the study of the fellow on the left of the image, André Thevet, who at the time was a court cosmographer and serial plagiariser. Unlike Hakluyt, he did cross the Atlantic, spending a few months as a chaplain in short-lived French settlement in what is now Rio de Janeiro in Brazil. 
+Note: The author of the 1584 text, _A Discourse Concerning Western Planting_, is on the right side of this picture, reading a book. That's Richard Hakluyt, a star of tonight's talk. He's in Paris here, around the same time that he is writing the Discourse, in the study of the fellow on the left of the image, André Thevet, who at the time was a court cosmographer and serial plagiariser. Unlike Hakluyt, he _did_ cross the Atlantic, spending a few months as a chaplain in short-lived French settlement in what is now Rio de Janeiro in Brazil. 
 
-Thevet had a knack for collecting accounts of others, compiling them, and publishing them as a narrative of his own travels. In the process of doing so, he acquired lots of information about the Americas as well as the levant. Hakluyt, sent to Paris to serve in the British embassy as a collector of information concerning these new lands, would have been right at home in Thevet's study, eager to devour all the information therein.
+Thevet had a knack for collecting accounts of others, compiling them, and publishing them as a narrative of his own travels. In the process of doing so, he acquired lots of information about the Americas as well as the Levant. Hakluyt, sent to Paris to serve in the British embassy as a collector of information concerning these new lands, would have been right at home in Thevet's study, eager to devour all the information therein.
 
+Hakluyt never traveled farther from London than Paris, but he published scores of accounts of travels around the world, not just the Americas. Like the geographer in The Little Prince, Hakluyt stayed in his office and judged the veracity of tales he heard.
+
+---
+
+> Thus both hearing, and reading the obloquie of our nation and finding few or none of our owne men able to replie heerin… [I] determined notwithstanding all difficulties, to vndertake the burden of that worke wherin all others pretended either ignorance, or lacke of leasure, or want of sufficient argument, whereas (to speake truely) the huge toile, and the small profit to insue, were the chiefe causes of the refusall.<sup>1</sup>
+
+Note: While in France, Hakluyt writes in his main work, the multivolume _Principal Navigations_,of how he read and heard calumnies about English prowess in seafaring, especially in view of their lack of colonies. He chose to undertake the hard work of collecting the stories of English exploratory adventures to the north, west, and east, as he notes here, despite the cost. He was defending queen and country, and casts aspersions on those too lazy to defend their nation with the press. 
+
+As we'll see during the rest of my talk, the press is a vital component to constructing the American Imaginary that Hakluyt promotes. When we first meet him in Jean Dytar's 2018 historical graphic novel _Florida_, he's at a party in the mid 1580s hosted by his friend Sir Walter Raleigh, musing about the name "America." 
+
+<!-- [While in France] I both heard in speech, and read in books other nations miraculously extolled for their discoueries and notable enterprises by sea, but the English of all others for their sluggish security, and continuall neglect of the like attempts especially in so long and happy a time of peace, either ignominiously reported, or exceedingly condemned... --> 
+
+---
+
+Sir Walter Raleigh, Hakluyt, and Jacques Le Moyne de Morgues and his wife Eléonore.<sup>1</sup>
+
+Note: “I often think about this cartographer,” he says here, “who understood, from his tiny studio in Vosges, that the lands found by Columbus weren’t the Indies but were really a new part of the world, which he named ‘America.’” “America” took hold in lieu of “Columbia” (or something similar) because, as Hakluyt explains, “at the beginning of the [16th] century, Amerigo Vespucci was more famous than Columbus owing to the publication of his travel narratives.” At this point, one of the party’s guests, the historical center of the novel, artist Jacques Le Moyne de Morgues, intuits Hakluyt’s argument, responding, “What a strange time, where anyone can make a name for themselves because of printing.”
+
+Before moving on, but to demonstrate the path we're taking, I want to underscore the word "cartographe," which here is an anachronism, as the term only emerged in the decades surrounding 1800. The anachronism, though, is a reminder of the touch of the author, whose 21st century hand and own American Imaginary is drawing and writing this text. 
+
+Printing fires the imagination, generates momentum, establishes precedent, and persuades. Hakluyt in his writings gestures at nearly as many motivations for publishing his arguments and collections of narratives as reasons he gives for why England should colonize the Americas (the latter boiling down to 23 reasons). We've already seen that national pride is one, and it may be inextricable from the what seems to be the central, driving impulse: precisely that desire to colonize.
+
+---
+
+## _Florida_ in Brief
+
+* c. 1552: Guillaume Le Testu meets Eléonore in Dieppe.
+* 1564: Jacques joins the Florida expedition as mapmaker.
+* 1565: Spanish destroy French colony in Florida.
+
+<hr>
+
+* 1572: St. Bartholomew’s Day massacre. 
+* c. 1583: Jacques and Eléonore meet Hakluyt.
+* 1588: Jacques dies in London.
+* 1591: Theodor De Bry prints Jacques’s Florida narrative.
+
+Note: Now, there is a lot to say about this novel, so I will try to tell the same story, briefly, twice, to advance the novel's challenges to cartography and to the american imaginary. Once from the perspective of Hakluyt and his construction of his American Imaginary, and then once from Le Moyne's sense of America from his having lived there.
+
+Here I split the events in the novel in half. Most of the "current" time of the novel is from 1583 to 1591, and these times are drawn with lots of ink and browns and blues. The flashbacks from before the massacre Dytar paints as watercolors in green and blue. 
+
+---
+
+During the party, Hakluyt begins circling around his main goal in speaking to Le Moyne. He notes that he is leaving for France soon asks Le Moyne if he knows Thevet. Yes, Le Moyne does. Then he pushes the ante, asking if Le Moyne knows where René de Laudonnière lives. Le Moyne is agitated.
+
+---
+
+Hakluyt needles Le Moyne about Florida.<sup>1</sup>
+
+Note: Once Hakluyt brings up his interest in the failed French colony in Florida, from which Le Moyne barely returned, the panel shatters, and Le Moyne's agitation is buttressed by an image of a flower, the sort of studies of flowers and fruits that made up Le Moyne's career as a painter in London after—despite Dytar's artistic license—fleeing France after the St. Bartholomew's Day massacre.
+
+In this novel, Dytar mobilizes three distinct graphic styles, which I imagine as three different narrative modes, and we see two here: the regular sepia-toned and heavily inked drawings of the novel's current time, and the studies of nature, shown here in excerpt.
+
+---
+
+The Le Moynes leave Raleigh’s party.<sup>1</sup>
+
+Note: During dinner, Raleigh takes over for Hakluyt and argues for English colonization in the Americas, and he's eager to get Le Moyne's tale, so that England could avoid the French "failures" ("échecs") in Brazil and Florida. Jacques's flowers fill the text like shards of glass, and he takes Eléonore and the two leave.
+
+
+<!-- [^first-florida] In 1507, the cartographer in question, Martin Waldseemüller, produced the first European map that showed the lands of the Western Hemisphere as distinct from Asia. The map was, at the same time, the first document to name these lands after Amerigo Vespucci.[^fourth-part-of-the-world] --> 
+
+<!-- Printing fires the imagination, generates momentum, establishes precedent, and persuades. For Hakluyt, the persuasive power of print was crucial. In introducing his multi-volume collection of narratives of English exploration around the globe, _The Principal Navigations_, he remarks on his time in France, facing calumnies regarding English deficiencies in seafaring. Finding "frew or none of our owne men able to replie" to the critiques he heard, he decided to "vndertake the burden of that worke."[@principal-navigations, 4–6] -->
+
+
+---
 
 Giovanni da Verrazzano, whose name is affixed to a bridge fewer than 20 miles away from me, apparently found a place named Norumbega, though he never used the word himself, during his visit to this continent in 1524. Instead, it appears for the first time in a map drawn by his brother a few years later. These wheels in motion, the myth of Norumbega grew, a 
 

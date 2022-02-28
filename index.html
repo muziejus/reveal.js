@@ -1,67 +1,80 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
 
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>reveal.js</title>
 
-  <title>reveal.js</title>
+    <link rel="stylesheet" href="https://use.typekit.net/urj1iba.css" />
+    <link rel="stylesheet" href="dist/reset.css" />
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/norumbega.css" />
 
-  <link rel="stylesheet" href="https://use.typekit.net/urj1iba.css" />
-  <link rel="stylesheet" href="dist/reset.css" />
-  <link rel="stylesheet" href="dist/reveal.css" />
-  <link rel="stylesheet" href="dist/theme/norumbega.css" />
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css" />
+  </head>
 
-  <!-- Theme used for syntax highlighted code -->
-  <link rel="stylesheet" href="plugin/highlight/monokai.css" />
-</head>
-
-<body>
-  <main>
-    <div class="sidebar">
-      <header>
-        <img src="https://i.imgur.com/riYcxmF.png" alt="Columbia University Libraries" />
-      </header>
-      <div class="reveal sidebarNorumbega">
+  <body>
+    <main>
+      <div class="sidebar">
+        <header>
+          <img
+            src="https://i.imgur.com/riYcxmF.png"
+            alt="Columbia University Libraries"
+          />
+        </header>
+        <div class="reveal sidebarNorumbega">
+          <div class="slides">
+            <section
+              data-markdown="sidebar-norumbega.md"
+              data-separator="^\n---\n\n"
+              data-separator-notes="^Note:"
+            ></section>
+          </div>
+        </div>
+        <footer>
+          <div class="screen">&nbsp;</div>
+          <h3>@muziejus</h3>
+        </footer>
+      </div>
+      <div class="reveal mainNorumbega">
         <div class="slides">
-          <section data-markdown="sidebar-norumbega.md" data-separator="^\n---\n\n" data-separator-notes="^Note:">
-          </section>
+          <section
+            data-markdown="norumbega.md"
+            data-separator="^\n---\n\n"
+            data-separator-notes="^Note:"
+          ></section>
         </div>
       </div>
-      <footer>
-        <div class="screen">&nbsp;</div>
-        <h3>@muziejus</h3>
-      </footer>
-    </div>
-    <div class="reveal mainNorumbega">
-      <div class="slides">
-        <section data-markdown="norumbega.md" data-separator="^\n---\n\n" data-separator-notes="^Note:"></section>
-      </div>
-    </div>
-  </main>
+    </main>
 
-  <script src="dist/reveal.js"></script>
-  <script src="plugin/notes/notes.js"></script>
-  <script src="plugin/markdown/markdown.js"></script>
-  <script src="plugin/highlight/highlight.js"></script>
-  <script>
-    let deck1 = new Reveal(document.querySelector(".mainNorumbega"), {
-      embedded: true,
-      controls: false,
-      progress: false,
-      plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
-    });
-    deck1.initialize();
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+      let deck1 = new Reveal(document.querySelector(".mainNorumbega"), {
+        embedded: true,
+        hash: true,
+        respondToHashChanges: true,
+        controls: false,
+        progress: false,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+      deck1.initialize();
 
-    let deck2 = new Reveal(document.querySelector(".sidebarNorumbega"), {
-      embedded: true,
-      controls: false,
-      progress: false,
-      plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
-      margin: 0.1,
-    });
-    deck2.initialize();
-  </script>
-</body>
-
+      let deck2 = new Reveal(document.querySelector(".sidebarNorumbega"), {
+        embedded: true,
+        controls: false,
+        progress: false,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+        margin: 0.1,
+      });
+      deck2.initialize();
+    </script>
+  </body>
 </html>

@@ -45,7 +45,7 @@ I also look to and reason about the question of when or if these settlers and or
 
 The answers to these questions are preliminary at best, at least without a lot of other work to lead us (or me) to that point, which is why these questions lie in the background of tonight's talk, while I will instead focus on the questions of how to think about what these people say, not about what they say per se.
 
-Cognizant of the theme of "under-mapped spaces," that brings these talks together, I aim to challenge the impulse that makes a mind, and perhaps specifically a Western mind, exercise mastery over a space by mapping it. If we are, as Matthew Edney proposes, moving past the cartographic ideal, which fetishises the map as a representation of reality, toward a focus on mapping as a process, then how do we incorporate fixed moments of mapping in our analyses?
+Cognizant of the theme of "under-mapped spaces," that brings these talks together, I aim to challenge the impulse that makes a mind, and perhaps specifically a Western mind, exercise mastery over a space by mapping it. If we are, as Matthew Edney proposes, moving past the cartographic ideal, which foregrounds the map as a representation of reality, toward a focus on mapping as a process, then how do we incorporate fixed moments of mapping in our analyses?
 
 ---
 
@@ -189,36 +189,60 @@ Note: In Hakluyt, Dytar levies a critique on the Western practice of constructin
 
 Dytar shows the emptiness behind these facts. The map is drawn by Eléonore. The pictures are photoshops by De Bry under Hakluyt's art direction. The text itself is incomplete when it comes into Hakluyt's hands. Furthermore, Hakluyt makes no pretense of chasing after truth. He is clear that he wants England to establish itself in the Americas, convert the Natives, exploit the raw materials in that Norumbega, and build an empire. And he has the facts for why right here for you to read.
 
-By so troubling the authorship of the map of Florida and thereby troubling also the provenance of De Bry's engravings, Dytar enforces with ink and water color what geographers and people who study maps have known for years. Maps lie.
+By so troubling the authorship of the map of Florida and thereby troubling also the provenance of De Bry's engravings, Dytar enforces with ink and water color what geographers and people who study maps, like the audience assembled tonight, have known for years. Maps lie.
 
 ---
 
->Geographical maps are embodiments of multifaceted, historical practices among specific humans and nonhumans… Geographical maps can, but need not, be fetishes in the sense of appearing to be nontropic, metaphor-free representations, more or less accurate, of previously existing, “real” properties of a world that are waiting patiently to be plotted. Instead, maps are models of worlds crafted through and for specific practices of intervening and particular ways of life.<sup>1</sup>
+>Geographical maps are embodiments of multifaceted, historical practices among specific humans and nonhumans… Maps are models of worlds crafted through and for specific practices of intervening and particular ways of life.<sup>1</sup>
 
-Note: 
-
----
-
-During the party, Hakluyt begins circling around his main goal in speaking to Le Moyne. He notes that he is leaving for France soon asks Le Moyne if he knows Thevet. Yes, Le Moyne does. Then he pushes the ante, asking if Le Moyne knows where René de Laudonnière lives. Le Moyne is agitated.
+Note: I particularly like Haraway's reminder of this fact because of two key words: crafted and intervening. Crafting, like the artistry central to the tale Dytar weaves, reminds us that the maps, that these alleged represations, are made by hands. It's notable that Le Moyne is both a map maker and a fine artist. In fact, Dytar shows Le Moyne as having abandoned his cosmographic and artistic pursuits upon his arrival in London. He is known exclusively as a painter of still lifes, studies of single flowers or a single fruit. The map-maker's craft resonates with the painter's art. More important, however, is Haraway's note about the relationship between mapping and intervention. The map La Pérouse brings back to Versailles is a trace of his intervention in the lives of the Ainu. And the portability of the "paper-work" of the map ensures future interventions. The entire colonial project, fed by the maps traveling back across the Atlantic, is a practice in intervening.
 
 ---
 
-Hakluyt needles Le Moyne about Florida.<sup>1</sup>
+<img src="img/florida/081.png" alt="page 81" class="r-stretch">
 
-Note: Once Hakluyt brings up his interest in the failed French colony in Florida, from which Le Moyne barely returned, the panel shatters, and Le Moyne's agitation is buttressed by an image of a flower, the sort of studies of flowers and fruits that made up Le Moyne's career as a painter in London after—despite Dytar's artistic license—fleeing France after the St. Bartholomew's Day massacre.
+“It made me cry.”<sup>1</sup>
 
-In this novel, Dytar mobilizes three distinct graphic styles, which I imagine as three different narrative modes, and we see two here: the regular sepia-toned and heavily inked drawings of the novel's current time, and the studies of nature, shown here in excerpt.
+Note: So that's the story of Dytar's novel from Hakluyt's perspective. It's one of power and control, wherein men who never crossed the Atlantic nevertheless create an America for their neighbors. Now, in contrast, we can see the story from Jacques Le Moyne's perspective. I mentioned above that Dytar creates in two different formats in this novel, keeping the ink and sepia tones for "current" events but rendering flashbacks in this wash of blues and greens. To me it's arresting, and the bottom panel, which is also the cover of the novel, stopped me cold. I immediately wanted to know that story.
+
+However, Dytar includes another graphic element in the flashbacks that further attaches his novel to the art and craft of making maps. Every panel from the past is criss-crossed by rhumb lines or windrose lines, characteristic of the portolan charts that predate the historical era of the novel. On the map attributed to Le Moyne, of course, there are no such lines. But Dytar's use of the lines creates opportunities for visual trickery. On the one hand, the place the events further in the past by using techniques from the past. On the other, one can feel that they add a layer of credibility to the histories. The lines on the chart calm the skeptical reader by placing the passage of time within the spatial stability we, immersed in the cartographic ideal, expect from our maps. But the rhumb lines do more, showing the fissures and fractures in Le Moyne's mind as he has attempted to reject Hakluyt's American imaginary. 
 
 ---
 
-The Le Moynes leave Raleigh’s party.<sup>1</sup>
+<img src="img/florida/027.png" class="r-stretch" alt="page 27">
 
-Note: During dinner, Raleigh takes over for Hakluyt and argues for English colonization in the Americas, and he's eager to get Le Moyne's tale, so that England could avoid the French "failures" ("échecs") in Brazil and Florida. Jacques's flowers fill the text like shards of glass, and he takes Eléonore and the two leave.
+“May God rest his…”<sup>1</sup> 
 
+Note: Hakluyt needles Jacques at the party where they meet, seemingly innocently asking about various people in France as he prepares for his trip there. Hakluyt's skills at collecting intelligence are still weak, and Jacques becomes irritated at the line of questioning. Hakluyt reminds Jacques of Jean Ribault, the Protestant leader who was killed by the Spanish in Florida, and the panel shatters for the first time. Dytar's sliver of a flower, painted in the style of post-Florida Le Moyne, shows the cracking in Jacques himself. At dinner, however, it's Raleigh who pushes the topic of Florida and English colonization, causing Jacques to explode.
+
+---
+
+<img src="img/florida/028-29.png" class="r-stretch" alt="pages 28–29">
+
+“Why should we settle for crumbs when we could have a whole piece of cake?”<sup>1</sup>
+
+Note: Dytar includes fragments of Jacques's painting shattering around him, the sharp slivers recalling the intersections of rhumblines on those old portolan charts. Raleigh's casual discussion of the French failures (échecs) in Brazil and Florida prove to be too much, and Jacques asks Eléonore to accompany him home.
+
+In the language of 2018, we would say that Jacques has suffered an immense trauma over his time in Florida, leaving him with memories he would rather not consider. This leaves him as a ghost to his children, an unknown cipher to all around him. It's Hakluyt's persistence that breaks him down and allows him to describe the horror of the journey to Eléonore.
+
+---
+
+<img src="img/florida/110.png" class="r-stretch" alt="page 110">
+
+“My drawings could give an accurate picture of our America.”<sup>1</sup>
+
+Note: Dytar paints in detail the folly of the French settlement in Florida. Le Moyne explains the capricious folly of the leadership on a perpetual search for gold and the toll it took on relationships with the Natives, as the french double crossed their way chasing phantom mines that never existed. He describes the folly of the evangelical mission, noting that they didn't bring along a single particularly religious person. And then he describes how the colony ran out of food and began to mutiny. Foreshadowing Hakluyt's later interest, Jacques explains to Eléonore that the only thing that would end up having any value from the experience were his drawings, drawings that could give an accurate picture of an America he increasingly believed should belong to the Natives.
+
+Jacques had been hiding his drawings, having been brought along mostly for his skills as a map-maker. He was drawing, he explains, mostly for Eléonore, but once leadership learns of the drawings they immediately sense their value in an audience with king Charles 9th. As the colonists begin starving, however, the leader of the colony, René Laudonnière, visits Le Moyne and asks to see his drawings.
+
+---
+
+<img src="img/florida/128-129.png" alt="pages 128–129">
+
+---
 
 <!-- [^first-florida] In 1507, the cartographer in question, Martin Waldseemüller, produced the first European map that showed the lands of the Western Hemisphere as distinct from Asia. The map was, at the same time, the first document to name these lands after Amerigo Vespucci.[^fourth-part-of-the-world] --> 
 
-<!-- Printing fires the imagination, generates momentum, establishes precedent, and persuades. For Hakluyt, the persuasive power of print was crucial. In introducing his multi-volume collection of narratives of English exploration around the globe, _The Principal Navigations_, he remarks on his time in France, facing calumnies regarding English deficiencies in seafaring. Finding "frew or none of our owne men able to replie" to the critiques he heard, he decided to "vndertake the burden of that worke."[@principal-navigations, 4–6] -->
 
 
 ---
@@ -226,25 +250,6 @@ Note: During dinner, Raleigh takes over for Hakluyt and argues for English colon
 Giovanni da Verrazzano, whose name is affixed to a bridge fewer than 20 miles away from me, apparently found a place named Norumbega, though he never used the word himself, during his visit to this continent in 1524. Instead, it appears for the first time in a map drawn by his brother a few years later. These wheels in motion, the myth of Norumbega grew, a 
 
 He refers to a place called "El Refugio," understood to be contemp
-
-
-1584 Plantings... comprehensive statement of English colonization. 
-
----
-
-## Latour and “Paper-work” <!-- .element: class="r-fit-text" -->
-
-* Mobile yet Immutable
-* Flat
-* Modifiable Scale
-* Free to Reproduce
-* Recombinable / Superimposable / Annotatable
-* Geometric
-
-<span class="credit">Latour, <a href="http://www.bruno-latour.fr/node/293.html">“Visualisation and Cognition: Drawing Things Together”</a></span>
-
-Note: Latour tells the story of La Pérouse, sent from Versailles to determine
-whether Sakhalin is an island.
 
 ---
 

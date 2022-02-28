@@ -60,7 +60,23 @@
 
 ---
 
+<sup>1</sup> Dytar, _Florida_, 81.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 27.
+
+---
+
 <sup>1</sup> Dytar, _Florida_, 28–29.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 110.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 128–129.
 
 ---
 

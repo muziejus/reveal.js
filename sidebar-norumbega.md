@@ -9,7 +9,7 @@
 
 ---
 
-<sup>1</sup> Jean Dytar, _Florida_ (Paris: Delcourt, 2018).
+<sup>1</sup> Jean Dytar, _Florida_ (Paris: Delcourt, 2018), 69.
 
 ---
 
@@ -21,7 +21,42 @@
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 27.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 178.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 174.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 178.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 190.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 226.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 233.
+
+---
+
+<sup>1</sup>Bruno Latour, “Visualisation and Cognition: Drawing Things Together,” _Knowledge and Society Studies in the Sociology of Culture Past and Present_ 6 (1986): 1–40.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 177.
+
+---
+
+<sup>1</sup> Donna J. Haraway, _Modest_Witness@ Second_Millennium.FemaleMan_Meets_OncoMouse™: Feminism and Technoscience_ (New York: Routledge, 1997), 135.
 
 ---
 

@@ -55,7 +55,7 @@ Note: The title of this talk closes a text printed in 1584, seemingly with an au
 
 ---
 
-<img src="https://i.imgur.com/k0iLsKG.jpg" alt="Thevet and Hakluyt" class="r-stretch">
+<img src="img/florida/069.png" alt="Thevet and Hakluyt" class="r-stretch">
 
 André Thevet and Richard Hakluyt.<sup>1</sup>
 
@@ -76,6 +76,8 @@ As we'll see during the rest of my talk, the press is a vital component to const
 <!-- [While in France] I both heard in speech, and read in books other nations miraculously extolled for their discoueries and notable enterprises by sea, but the English of all others for their sluggish security, and continuall neglect of the like attempts especially in so long and happy a time of peace, either ignominiously reported, or exceedingly condemned... --> 
 
 ---
+
+<img class="r-stretch" src="img/florida/025-26.jpeg" alt="page 25 and page 26">
 
 Sir Walter Raleigh, Hakluyt, and Jacques Le Moyne de Morgues and his wife Eléonore.<sup>1</sup>
 
@@ -102,7 +104,98 @@ Printing fires the imagination, generates momentum, establishes precedent, and p
 
 Note: Now, there is a lot to say about this novel, so I will try to tell the same story, briefly, twice, to advance the novel's challenges to cartography and to the american imaginary. Once from the perspective of Hakluyt and his construction of his American Imaginary, and then once from Le Moyne's sense of America from his having lived there.
 
-Here I split the events in the novel in half. Most of the "current" time of the novel is from 1583 to 1591, and these times are drawn with lots of ink and browns and blues. The flashbacks from before the massacre Dytar paints as watercolors in green and blue. 
+This timeline gives a sense of the events shown in the novel. I have split the events in the novel in half. Most of the "current" time of the novel is from 1583 to 1591, and these times are drawn with lots of ink and browns and blues. The flashbacks from before the massacre Dytar paints as watercolors in green and blue. 
+
+---
+
+<img src="img/florida/178.png" alt="page 178" class="r-stretch">
+
+“We have to take advantage of the power of the press.”<sup>1</sup>
+
+Note: Here is Hakluyt, saying that like Martin Luther and Amerigo Vespucci before him, he and his collaborators need to take advantage of the printing press. Over the course of the novel, Hakluyt's propagandizing mission solidifies. The main events of the novel begin around the time he publishes Diverse Voyages, which is a collection of narratives of exploration. Then he publishes the Discourse Concerning Western Plantings, specifically making the case to Queen Elizabeth and her court for the value in colonizing America or Norumbega. By this point, he is collecting the stories of English exploration that makes up the Principal Navigations. 
+
+Dytar creates a sense of increasing calculation in Hakluyt. When he meets Le Moyne, he casually asks about Florida. By this point in the novel, he is practically hectoring Le Moyne for something he can print to help him convince the crown to finance colonization. 
+
+In this scene, Hakluyt turns cold calculator upon visiting Raleigh. Dytar paints Raleigh as defeated over the bad news coming from Roanoke, but Hakluyt asks if at least there is new art regarding Virginia from the colonist artist John White.
+
+---
+
+<img src="img/florida/174.png" alt="page 174" class="r-stretch">
+
+“Not yet. Not yet. But it will come.”<sup>1</sup>
+
+Note: seeing the new art, Hakluyt responds optimistically. Raleigh counters that these documents don't make common people dream, or his investors, or the court, or the queen herself. These people want gold. They want subdued territory they can exploit. We have nothing of the sort, Raleigh finally declares. And here Dytar shows Hakluyt calmly sipping his drink, knowingly saying "not yet, not yet, but it will come."
+
+Hakluyt's calm in this section underscores how much he values the imaginary he's constructing for the English public as a whole. 
+
+---
+
+<img src="img/florida/178-2.jpg" alt="page 178" class="r-stretch">
+
+“What we must arouse is a great, England-wide debate.”<sup>1</sup>
+
+Note: Now Hakluyt grows animated. John White's images must be seen by as large a public as possible, he argues, and the America in the minds of the English must change from a place of terror and failure and instead become precisely the sort of place the English would eagerly colonize. As a result, the importance of Le Moyne's narrative—and his images—becomes even more central to the project. 
+
+
+---
+
+<img src="img/florida/190.png" alt="page 190" class="r-stretch">
+
+“We want to promote a new vision of the Americas, based on the Protestant experience.”<sup>1</sup>
+
+Note: To this end, Hakluyt recruits Theodor de Bry, a Protestant printer and engraver who has fled Spanish repression in the low countries and established himself in Frankfurt. Dytar shows De Bry pleading with Le Moyne to help him promote the idea of a Protestant America, shifting the imaginary again from an America colonized by the English to a specifically *Protestant* America colonized by the English and other protestants. After all, both previous French attempts, in Brazil and in Florida, were effectively exercises in creating havens for Huguenots. 
+
+Jacques dies shortly thereafter, and Hakluyt leans on Eléonore to provide him with any material Jacques may have left behind about America. He had, in fact, begun writing a narrative for his daughters before his death, but Dytar shows that the accompanying images are unusable. Eléonore, who grew up surrounded by mapmakers, forges a map of Florida and gives it to Hakluyt along with her husband's text. 
+
+Showing the various conflicts at play, De Bry refuses the package, saying that the images are precisely what made Jacque's story so appealing. First hand drawings that pre-date John White's would make quite a splash on the European market. But calculating Hakluyt has a plan.
+
+---
+
+<img src="img/florida/226.png" alt="page 226" class="r-stretch">
+
+“I’ve got something even better!”<sup>1</sup>
+
+Note: Here Dytar moves into ground covered in many of his other texts, namely the question of what authorship actually is. De Bry needs pictures for his book. Le Moyne has provided none. De Bry then strikes upon the idea of creating their own images, and Hakluyt suggests using already existing imagery from Thevet's book about Brazil, from John White's drawings, and, worse still, from the Codex Mendoza, which Hakluyt has bought from Thevet. The men will publish an amalgam, inventing new native Americans out of whole cloth. Dytar even provides a visual joke, comparing the pose in one of De Bry's early sketches with the replica of Augustus of Prima Porta on Hakluyt's mantle, drawing upon the trope of the natives as though people descended straight from classical antiquity. 
+
+In the meantime, Hakluyt insists that De Bry show nothing of the grim fate that befell the French in Florida. The images must be inviting and inspiring.
+
+---
+
+<img src="img/florida/233.png" alt="page 233" class="r-stretch">
+
+Jacques Le Moyne’s family admires “his” map.<sup>1</sup>
+
+Note: Dytar proposes that the images that accompany Le Moyne's text, when it is published in 1591, are a complete fabrication. A mashup of the details Le Moyne has provided in his text with pictures from Brazil, Mexico, and Virginia. What's more, the map is an invention provided by Eléonore, given verisimilitude by adding toponyms. 
+
+De Bry and Hakluyt have introduced—and, more importantly with its etymological cousin—_pro_duced an America for the European public. De Bry promises to publish the narrative in French, German, and Latin, to ensure a wide readership. Additionally, Hakluyt directs an aesthetic that can affect people who can't read the text. Jacques's family can't read Latin--they rely on his son in law to read the story, but the family crowds around the text to take in the pictures, the traces, allegedly of their father's hand. 
+
+---
+
+> La Pérouse does something that is going to create an enormous difference between the [Ainu] and the European. What is, for the former, a drawing of no importance that the tide may erase, is for the latter the <span style="font-style: normal">single object</span> of his mission.<sup>1</sup>
+
+Note: Bruno Latour tells the story of La Pérouse's tracing the pacific coastline in 1787. Louis 16th has sent the explorer on this mission precisely to create a better map of the area, and La Pérouse asks the local Ainu (Latour calls them "Chinese." The 80s were wild) if the land they are on is an island or a peninsula. An elder draws in the sand a map showing it is an island that we now know as Sakhalin, in Russia, while a younger Ainu hurriedly reproduces the sand drawing in a notebook for the Frenchman. 
+
+Latour's emphasis on the "single object" here resonates with Hakluyt's calculations. He needs images of the Americas in order to build the imaginary. Louis 16th needs maps to build his imaginary of the Pacific and where the Amur River meets the ocean. Latour explains how the map is needed to settle debates, to determine land ownership, to plot commercial travel. But his map must also convince the people back in Versailles. Lapérouse not only polishes an imaginary here, but he also seeks converts to it. 
+
+The instrumentality of Hakluyt's work shows its kinship to Latour's sense of "paper-work." Hakluyt's books are mobile yet immutable yet reproducible and recombinable and annotatable. They not only build images but provide a foundation for future images, for that future of a docile and dominated America ready to quote unquote accept English settlers. 
+
+---
+
+<img src="img/florida/177-detail.png" alt="page 177" class="r-stretch">
+
+“We must provoke people’s callings, Walter! Arouse their desire!”<sup>1</sup>
+
+Note: In Hakluyt, Dytar levies a critique on the Western practice of constructing imaginaries and assuming them to be representations of reality. We as readers believe Le Moyne is presenting factual information and factual records of the real in America because, I don't know, books don't lie. For Latour, this is part of the lie we Westerners tell ourselves to demonstrate that we are modern, in contrast, say, to the Ainu or the Temecua Le Moyne meets. 
+
+Dytar shows the emptiness behind these facts. The map is drawn by Eléonore. The pictures are photoshops by De Bry under Hakluyt's art direction. The text itself is incomplete when it comes into Hakluyt's hands. Furthermore, Hakluyt makes no pretense of chasing after truth. He is clear that he wants England to establish itself in the Americas, convert the Natives, exploit the raw materials in that Norumbega, and build an empire. And he has the facts for why right here for you to read.
+
+By so troubling the authorship of the map of Florida and thereby troubling also the provenance of De Bry's engravings, Dytar enforces with ink and water color what geographers and people who study maps have known for years. Maps lie.
+
+---
+
+>Geographical maps are embodiments of multifaceted, historical practices among specific humans and nonhumans… Geographical maps can, but need not, be fetishes in the sense of appearing to be nontropic, metaphor-free representations, more or less accurate, of previously existing, “real” properties of a world that are waiting patiently to be plotted. Instead, maps are models of worlds crafted through and for specific practices of intervening and particular ways of life.<sup>1</sup>
+
+Note: 
 
 ---
 

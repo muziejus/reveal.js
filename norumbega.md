@@ -185,7 +185,7 @@ The instrumentality of Hakluyt's work shows its kinship to Latour's sense of "pa
 
 “We must provoke people’s callings, Walter! Arouse their desire!”<sup>1</sup>
 
-Note: In Hakluyt, Dytar levies a critique on the Western practice of constructing imaginaries and assuming them to be representations of reality. We as readers believe Le Moyne is presenting factual information and factual records of the real in America because, I don't know, books don't lie. For Latour, this is part of the lie we Westerners tell ourselves to demonstrate that we are modern, in contrast, say, to the Ainu or the Temecua Le Moyne meets. 
+Note: In Hakluyt, Dytar levies a critique on the Western practice of constructing imaginaries and assuming them to be representations of reality. We as readers believe Le Moyne is presenting factual information and factual records of the real in America because, I don't know, books don't lie. For Latour, this is part of the lie we Westerners tell ourselves to demonstrate that we are modern, in contrast, say, to the Ainu or the Timucua Le Moyne meets. 
 
 Dytar shows the emptiness behind these facts. The map is drawn by Eléonore. The pictures are photoshops by De Bry under Hakluyt's art direction. The text itself is incomplete when it comes into Hakluyt's hands. Furthermore, Hakluyt makes no pretense of chasing after truth. He is clear that he wants England to establish itself in the Americas, convert the Natives, exploit the raw materials in that Norumbega, and build an empire. And he has the facts for why right here for you to read.
 
@@ -239,10 +239,74 @@ Jacques had been hiding his drawings, having been brought along mostly for his s
 
 <img src="img/florida/128-129.png" alt="pages 128–129">
 
+Note: Le Moyne and Laudonnière have been ravaged by famine, and the anguish in the latter's face in this spread underscores how he understands his project to be lost. There is no gold in Le Moyne's images, no spice or precious stones. Instead, Le Moyne has captured the quotidian lives of the Timucua and the settlers, including the two marooned Spaniards they met who said all the gold they saw in these lands had washed ashore from wrecked Spanish galleons coming from Mexico or Peru. 
+
+Again Dytar uses the rhumblines to provide edges for the images, which are now shards cutting through Laudonnière's image of their mission. These lines are supposed to aid in navigation, but the French are now completely lost.
+
 ---
 
-<!-- [^first-florida] In 1507, the cartographer in question, Martin Waldseemüller, produced the first European map that showed the lands of the Western Hemisphere as distinct from Asia. The map was, at the same time, the first document to name these lands after Amerigo Vespucci.[^fourth-part-of-the-world] --> 
+<img src="img/florida/130.png" alt="page 130">
 
+“The sole success of this expedition are your drawings, Jacques.”<sup>1</sup>
+
+Note: Laudonnière repeats Le Moyne's earlier comment, where the French folly has led the men to such a state where only Jacques's drawings are a success. The indians hate us, Laudonnière remarks, and our compatriots have forgotten us. We could say that even God himself as abandoned us.
+
+---
+
+<img src="img/florida/135.png" alt="page 135">
+
+“I’ve imagined this scene thousands of times.”<sup>1</sup>
+
+Note: Jacques's fellow settlers, starving, raid his lodgings and demand he give up all of his paper so they can eat it. At first they're content with just the blank pages, but eventually they come for the drawings as well and devour them.
+
+The violent images of famished Frenchmen tearing through paper fills the map in Le Moyne's mind. The one good thing about the whole expedition is gone. Not for nothing that Dytar shows Le Moyne feeling that the Europeans have no business in America. 
+
+---
+
+<img src="img/florida/204.png" alt="page 204" class="r-stretch">
+
+“Does the land belong to those who stole it?”<sup>1</sup>
+
+Note: Raleigh visits Le Moyne once again, and the two argue over the impending invasion by the Spanish Armada. Le Moyne argues that if we see Spain's invasion as illegitimate, then we should see the invasion of the Americas in the same way. Raleigh asks who actually owns the land. The argument ends with Raleigh's punching Le Moyne, who tumbles down the stairs and dies.
+
+Dytar manifests in Raleigh's fist the power of the American Imaginary. The only man in this entire novel who has been to North America is interested in telling the story only so that his daughters may know him better, and even so, he is pressured to do it by Eléonore.
+
+Raleigh, Hakluyt, and De Bry want to take Le Moyne's story from him to mobilize it for their colonial and religious ends. They hector Le Moyne over the course of the novel, and Le Moyne's resistance to framing his trauma anew costs him his life. What's worse, the propgandists didn't even need Le Moyne's drawings or maps. 
+
+---
+
+<img src="https://i.imgur.com/H0EyTr0.jpg" alt="Norumbega" class="r-stretch">
+
+“Tierra Nueva”<sup>1</sup>
+
+Note: Writing about the origin of the name "Norumbega," Richard d'Abate refers to this map, with which I've opened tonight's discussion, noting that it's "an attempt to show the Verrazzano discoveries [of 1524] and burgeoning concept of a 'Norumbega' region could work together." After all, as d'Abate writes, living "in the representations of a New World rather than in the New World itself [was] to inhabit a fluid region," one open to change, addition, and reformulation. Regardless of the people living in those territories, Hakluyt was warping the image of America with each new rumor of an explorer eager to relate what they saw. In fact, when Eléonore presents Hakluyt with her forged map, his first remark is that it's out of date.
+
+---
+
+<img src="img/florida/009.png" class="r-stretch" alt="page 9">
+
+“The Americas… They’re always changing from one map to the next.”<sup>1</sup>
+
+Note: I haven't yet figured out what to do with Eléonore in Dytar's work. First, she seems to be wholly invented by Dytar, down to her name. Nevertheless, she is more active in pushing Dytar's narrative forward than her husband is, and she has a particularly close relationship to map-making, having grown up among map-makers in Dieppe. In fact, her flashback to meeting Guillaume Le Testu around 1552 when he returned to Dieppe is the first such flashback in the novel and establishes the importance of the map to the work as a whole, one Jacques persistently challenges as noted above.
+
+Nevertheless, when she's a little girl in Dieppe, watching Le Testu draw a map, he gives her a little geography quiz. She identifies the Americas, before adding that they are always changing from one map to the next.
+
+---
+
+<img alt="Massey pages 2 and 3" class="r-stretch" src="https://i.imgur.com/CWRhcHJ.png">
+
+Note: This is a slide I have reused in variety of contexts for the past three
+years, largely since I'm not done thinking through it. But it also fits here,
+as I close my talk. Doreen Massey opens _For Space_ juxtaposing these two
+images. On the left is a facsimile of a map of Tenochtitlan from the Codex
+Mendoza, the very book that Hakluyt bought from Thevet, who himself acquired it
+after it was pilfered from a Spanish galleon. On the right is a map of the same
+city, now called Mexico City, drawn by Hernán Cortés.
+
+Investigating the epistemology of the mapmaking that went into Cortés's map, Massey points out how thinking of space in terms of areas to conquer or dominate and turn into colonies is linked to the image of space as flat and continuous. When we read a Western map, of course, we understand its edges as a fiction in place to focus our attention on the map's extent. We know that the territory extends in all directions.
+
+
+<!-- [^first-florida] In 1507, the cartographer in question, Martin Waldseemüller, produced the first European map that showed the lands of the Western Hemisphere as distinct from Asia. The map was, at the same time, the first document to name these lands after Amerigo Vespucci.[^fourth-part-of-the-world] --> 
 
 
 ---
@@ -253,9 +317,6 @@ He refers to a place called "El Refugio," understood to be contemp
 
 ---
 
-<img alt="Massey pages 2 and 3" class="r-stretch" src="https://i.imgur.com/CWRhcHJ.png">
-
-<span class="credit">[_Codex Mendoza_](https://codicemendoza.inah.gob.mx/inicio.php) (c.1541) and Cortés, [_Mexico City_](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0) (1524), in [Massey, _For Space_](https://uk.sagepub.com/en-gb/eur/for-space/book227109), 2–3.</span>
 
 Note: Doreen Massey begins _For Space_ with a set of ruminations, of failures
 of spatial imagination. "Failure in the sense of being inadequate to face up

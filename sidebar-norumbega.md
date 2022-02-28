@@ -1,7 +1,7 @@
 
 ---
 
-<sup>1</sup> Claudius Ptolemy et al., “Tierra Nueva,” in _Ptolemeo. La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_, 1:30,000, David Rumsey Map Collection at Stanford University Libraries (Venetia: Gioan. Baptista Pedrezano, 1548).
+<sup>1</sup> Giacomo Gastaldi, “Tierra Nueva,” in Claudius Ptolemy et al., _Ptolemeo. La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_, 1:30,000, David Rumsey Map Collection at Stanford University Libraries (Venetia: Gioan. Baptista Pedrezano, 1548).
 
 ---
 
@@ -79,5 +79,30 @@
 <sup>1</sup> Dytar, _Florida_, 128–129.
 
 ---
+
+<sup>1</sup> Dytar, _Florida_, 130.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 135.
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 204.
+
+---
+
+<sup>1</sup> Gastaldi, “Tierra Nueva.”
+
+---
+
+<sup>1</sup> Dytar, _Florida_, 9.
+
+---
+
+[_Codex Mendoza_](https://codicemendoza.inah.gob.mx/inicio.php) (c.1541) and Cortés, [_Mexico City and the Gulf of Mexico_](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0) (1524), in Doreen Massey, _For Space_ (London, SAGE: 2005)
+
+---
+
 
 <sup>1</sup> Cornille Wytfliet et al., “[Norumbega et Virginia](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296158~90067645:Norumbega-et-Virginia),” in _Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611_, David Rumsey Map Collection (Douay: Chez Francois Fabri, 1611).

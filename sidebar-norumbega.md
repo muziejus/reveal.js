@@ -1,7 +1,12 @@
+<img src="img/florida/cover.png" alt="Cover of Florida" class="r-stretch">
 
 ---
 
 Giacomo Gastaldi, “Tierra Nueva,” in Claudius Ptolemy et al., _Ptolemeo. La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_, 1:30,000, David Rumsey Map Collection at Stanford University Libraries (Venetia: Gioan. Baptista Pedrezano, 1548).
+
+---
+
+Cornille Wytfliet et al., “Norumbega et Virginia,” in _Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611_, David Rumsey Map Collection (Douay: Chez Francois Fabri, 1611).
 
 ---
 

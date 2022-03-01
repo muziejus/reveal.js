@@ -35,15 +35,15 @@ $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 // ---------------------------------------------
 
 body {
+  background-color: #555555;
   text-rendering: optimizeLegibility;
   font-feature-settings: "liga", "dlig", "hlig";
 }
 
 main {
+  margin: auto;
   height: 1080px;
   width: 1920px;
-  border: 2px solid;
-  border-color: #cc0000;
   display: flex;
   flex-direction: row-reverse;
 }

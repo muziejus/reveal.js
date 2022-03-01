@@ -100,7 +100,7 @@ Dytar, _Florida_, 9.
 
 ---
 
-[_Codex Mendoza_](https://codicemendoza.inah.gob.mx/inicio.php) (c.1541) and Cortés, [_Mexico City and the Gulf of Mexico_](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0) (1524), in Doreen Massey, _For Space_ (London, SAGE: 2005)
+_Codex Mendoza_ and Hernán Cortés, _Mexico City and the Gulf of Mexico_, in Doreen Massey, _For Space_ (London, SAGE: 2005), 2–3.
 
 ---
 
@@ -116,7 +116,7 @@ Donna Haraway, _Simians, Cyborgs, and Women: The Reinvention of Nature_ (New Yor
 
 ---
 
-Subcomandante Marcos, “¿Qué Tan Grande Es El Mundo?” 2006, http://enlacezapatista.ezln.org.mx/2006/02/17/en-la-ibero-puebla-17-de-febrero/.
+Subcomandante Marcos, “¿Qué Tan Grande Es El Mundo?” 2006.
 
 ---
 

@@ -358,15 +358,15 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   }
 }
 body {
+  background-color: #555555;
   text-rendering: optimizeLegibility;
   font-feature-settings: "liga", "dlig", "hlig";
 }
 
 main {
+  margin: auto;
   height: 1080px;
   width: 1920px;
-  border: 2px solid;
-  border-color: #cc0000;
   display: flex;
   flex-direction: row-reverse;
 }

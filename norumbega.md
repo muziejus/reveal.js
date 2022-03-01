@@ -183,7 +183,7 @@ The instrumentality of Hakluyt's work shows its kinship to Latour's sense of "pa
 
 <img src="img/florida/177-detail.png" alt="page 177" class="r-stretch">
 
-“We must provoke people’s callings, Walter! Arouse their desire!”
+“We must arouse callings, Walter! Awaken desire!”
 
 Note: In Hakluyt, Dytar levies a critique on the Western practice of constructing imaginaries and assuming them to be representations of reality. We as readers believe Le Moyne is presenting factual information and factual records of the real in America because, I don't know, books don't lie. For Latour, this is part of the lie we Westerners tell ourselves to demonstrate that we are modern, in contrast, say, to the Ainu or the Timucua Le Moyne meets. 
 
@@ -247,7 +247,7 @@ Again Dytar uses the rhumblines to provide edges for the images, which are now s
 
 <img src="img/florida/130.png" alt="page 130">
 
-“The sole success of this expedition are your drawings, Jacques.”
+“Your drawings are the sole success of this expedition, Jacques.”
 
 Note: Laudonnière repeats Le Moyne's earlier comment, where the French folly has led the men to such a state where only Jacques's drawings are a success. The indians hate us, Laudonnière remarks, and our compatriots have forgotten us. We could say that even God himself as abandoned us.
 
@@ -376,9 +376,10 @@ constitutive complexity." At the libraries, I'm often asking the researchers who
 <div style="font-size: 45%;">
 
 * Abate, Richard d’. “On the Meaning of a Name: ‘Norumbega’ and the Representation of North America.” In _American Beginnings: Exploration, Culture, and Cartography in the Land of Norumbega_, edited by Emerson W. Baker. Lincoln: University of Nebraska Press, 1994.
-* Cortés, Hernán. “[Mexico City and the Gulf of Mexico](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0)” in _Praeclara Ferdina[n]Di Cortesii de Noua Maris Oceani Hyspania Narratio Sacratissimo, Ac Inuictissimo Carolo Romanoru[m] Imperatori Semper Augusto, Hyspaniaru[m] &c. Regi Anno Domini M.D.XX. Transmissa : In qua Continentur Plurima Scitu, & Admiratione Digna circa Egregias Earu[m] p[Ro]Uintiaru[m] Urbes, Incolaru[m] Mores, Pueroru[m] Sacrificia, & Reliogiosas Personas, Potissimu[m]q[Ue] de Celebri Ciuitate Temixtitan Variisq[Ue] Illi[Us] Mirabilib[Us], Qu[a]e Lege[n]Te[m] Mirifice Delectabu[n]t_. Nuremberg: Friederich Peypus, 1524. Ayer 655.51.c8 1524b. Edward E. Ayer Collection, Newberry Library, Chicago.
+* Cortés, Hernán. “[Mexico City and the Gulf of Mexico](https://www.newberry.org/file/hern-n-cort-s-mexico-city-1524-woodcut-vault-ayer-65551c8-1524d-0).” In _Praeclara Ferdina[n]Di Cortesii de Noua Maris Oceani Hyspania Narratio Sacratissimo, Ac Inuictissimo Carolo Romanoru[m] Imperatori Semper Augusto, Hyspaniaru[m] &c. Regi Anno Domini M.D.XX. Transmissa : In qua Continentur Plurima Scitu, & Admiratione Digna circa Egregias Earu[m] p[Ro]Uintiaru[m] Urbes, Incolaru[m] Mores, Pueroru[m] Sacrificia, & Reliogiosas Personas, Potissimu[m]q[Ue] de Celebri Ciuitate Temixtitan Variisq[Ue] Illi[Us] Mirabilib[Us], Qu[a]e Lege[n]Te[m] Mirifice Delectabu[n]t_. Nuremberg: Friederich Peypus, 1524. Ayer 655.51.c8 1524b. Edward E. Ayer Collection, Newberry Library, Chicago.
 * Dytar, Jean. _Florida_. Paris: Delcourt, 2018.
 * Edney, Matthew H. _Cartography: The Ideal and Its History_. Chicago: University of Chicago Press, 2019.
+* Gastaldi, Giacomo. “Tierra Nueva.” In Ptolemy, Claudius, Giacomo Gastaldi, Pietro Andrea Mattioli, and Giovanbattista Pedrezano. _La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_. 1:30,000. David Rumsey Map Collection at Stanford University Libraries. Venetia: Gioan. Baptista Pedrezano, 1548.
 * Hakluyt, Richard. _A Particuler Discourse Concerninge the Greate Necessitie and Manifolde Commodyties That Are Like to Growe to This Realme of Englande by the Westerne Discoueries Lately Attempted, Written in the Yere 1584_ [1584]. In _A Discourse Concerning Western Planting Written in the Year 1584_, edited by Charles Deane. Cambridge, MA: Maine Historical Society, 1877.
 * ———. _The Principal Navigations, Voyages, Traffiques, and Discoveries of the English Nation_ [1599]. Edinburgh: E. & G. Goldsmid, 1885. 
 * Haraway, Donna. _Modest_Witness@Second_Millennium.FemaleMan_Meets_OncoMouse: Feminism and Technoscience_. New York: Routledge, 1997.
@@ -386,7 +387,6 @@ constitutive complexity." At the libraries, I'm often asking the researchers who
 * Latour, Bruno. “Visualisation and Cognition: Drawing Things Together.” _Knowledge and Society Studies in the Sociology of Culture Past and Present_ 6 (1986): 1–40.
 * Mancall, Peter C. _Hakluyt’s Promise: An Elizabethan’s Obsession for an English America_. New Haven: Yale University Press, 2007.
 * Massey, Doreen. _For Space_. London: SAGE, 2005.
-* Gastaldi, Giacomo. “Tierra Nueva.” In Ptolemy, Claudius, Giacomo Gastaldi, Pietro Andrea Mattioli, and Giovanbattista Pedrezano. _La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_. 1:30,000. David Rumsey Map Collection at Stanford University Libraries. Venetia: Gioan. Baptista Pedrezano, 1548.
 * Smith, Thomas. “[‘Codex Mendoza,’ Etc](https://digital.bodleian.ox.ac.uk/objects/2fea788e-2aa2-4f08-b6d9-648c00486220/).” c 1541. MS. Arch. Selden. A. 1. Bodleian Library. 
 * Subcomandante Marcos. “[¿Qué Tan Grande Es El Mundo?](http://enlacezapatista.ezln.org.mx/2006/02/17/en-la-ibero-puebla-17-de-febrero/)” 2006. 
 

@@ -1,50 +1,50 @@
 
 ---
 
-<sup>1</sup> Giacomo Gastaldi, “Tierra Nueva,” in Claudius Ptolemy et al., _Ptolemeo. La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_, 1:30,000, David Rumsey Map Collection at Stanford University Libraries (Venetia: Gioan. Baptista Pedrezano, 1548).
+Giacomo Gastaldi, “Tierra Nueva,” in Claudius Ptolemy et al., _Ptolemeo. La Geografia Di Claudio Ptolemeo Alessandrino    ... In Venetia, ... per Gioan. Baptista Pedrezano ... Anni x. M.D.XLVIII (1548)_, 1:30,000, David Rumsey Map Collection at Stanford University Libraries (Venetia: Gioan. Baptista Pedrezano, 1548).
 
 ---
 
-<sup>1</sup> Richard Hakluyt, _A Particuler Discourse Concerninge the Greate Necessitie and Manifolde Commodyties That Are Like to Growe to This Realme of Englande by the Westerne Discoueries Lately Attempted, Written in the Yere 1584_ [1584], in Charles Deane, ed., _A Discourse Concerning Western Planting Written in the Year 1584_ (Cambridge, MA: Maine Historical Society, 1877), 161.
+Richard Hakluyt, _A Particuler Discourse Concerninge the Greate Necessitie and Manifolde Commodyties That Are Like to Growe to This Realme of Englande by the Westerne Discoueries Lately Attempted, Written in the Yere 1584_ [1584], in Charles Deane, ed., _A Discourse Concerning Western Planting Written in the Year 1584_ (Cambridge, MA: Maine Historical Society, 1877), 161.
 
 ---
 
-<sup>1</sup> Jean Dytar, _Florida_ (Paris: Delcourt, 2018), 69.
+Jean Dytar, _Florida_ (Paris: Delcourt, 2018), 69.
 
 ---
 
-<sup>1</sup> Richard Hakluyt, _The Principal Navigations, Voyages, Traffiques, and Discoveries of the English Nation_ vol. 1 [1599], (Edinburgh: E. & G. Goldsmid, 1885), 5–6.
+Richard Hakluyt, _The Principal Navigations, Voyages, Traffiques, and Discoveries of the English Nation_ vol. 1 [1599], (Edinburgh: E. & G. Goldsmid, 1885), 5–6.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 25–26.
+Dytar, _Florida_, 25–26.
 
 ---
 
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 178.
+Dytar, _Florida_, 178.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 174.
+Dytar, _Florida_, 174.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 178.
+Dytar, _Florida_, 178.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 190.
+Dytar, _Florida_, 190.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 226.
+Dytar, _Florida_, 226.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 233.
+Dytar, _Florida_, 233.
 
 ---
 
@@ -52,51 +52,51 @@
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 177.
+Dytar, _Florida_, 177.
 
 ---
 
-<sup>1</sup> Donna J. Haraway, _Modest_Witness@ Second_Millennium.FemaleMan_Meets_OncoMouse™: Feminism and Technoscience_ (New York: Routledge, 1997), 135.
+Donna J. Haraway, _Modest_Witness@ Second_Millennium.FemaleMan_Meets_OncoMouse™: Feminism and Technoscience_ (New York: Routledge, 1997), 135.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 81.
+Dytar, _Florida_, 81.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 27.
+Dytar, _Florida_, 27.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 28–29.
+Dytar, _Florida_, 28–29.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 110.
+Dytar, _Florida_, 110.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 128–129.
+Dytar, _Florida_, 128–129.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 130.
+Dytar, _Florida_, 130.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 135.
+Dytar, _Florida_, 135.
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 204.
+Dytar, _Florida_, 204.
 
 ---
 
-<sup>1</sup> Gastaldi, “Tierra Nueva.”
+Gastaldi, “Tierra Nueva.”
 
 ---
 
-<sup>1</sup> Dytar, _Florida_, 9.
+Dytar, _Florida_, 9.
 
 ---
 
@@ -104,5 +104,30 @@
 
 ---
 
+Dytar, _Florida_, 200.
 
-<sup>1</sup> Cornille Wytfliet et al., “[Norumbega et Virginia](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~296158~90067645:Norumbega-et-Virginia),” in _Histoire universelle des Indes occidentales et orientales, et de la conversion des Indiens : divisee en trois parties par Cornille Wytfliet & Anthoine Magin & autres historiens. Premiere Partie. A Douay, Chez Francois Fabri, l'An 1611_, David Rumsey Map Collection (Douay: Chez Francois Fabri, 1611).
+---
+
+Matthew H. Edney, _Cartography: The Ideal and Its History_ (Chicago: University of Chicago Press, 2019), 96.
+
+---
+
+Donna Haraway, _Simians, Cyborgs, and Women: The Reinvention of Nature_ (New York: Routledge, 1991), 188–189.
+
+---
+
+Subcomandante Marcos, “¿Qué Tan Grande Es El Mundo?” 2006, http://enlacezapatista.ezln.org.mx/2006/02/17/en-la-ibero-puebla-17-de-febrero/.
+
+---
+
+Subcomandante Marcos, “¿Qué Tan Grande Es El Mundo?”
+
+---
+
+Dytar, _Florida_, 46.
+
+---
+
+
+---
+
